@@ -11,7 +11,7 @@ categories: [未分类]
 实际运行结果：
 <img src="http://7xmcf2.com1.z0.glb.clouddn.com/css-z.png" alt="" />
 
-制作图片的斜角装饰文字与div元素的斜角装饰文字的原理差不多。
+制作图片的斜角装饰文字与div元素的斜角装饰文字的原理差不多，所以具体实现一种即可。
 
 HTML代码：
 
