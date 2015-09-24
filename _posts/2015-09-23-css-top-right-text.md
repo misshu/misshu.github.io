@@ -1,6 +1,6 @@
 ---
 layout: post
-title: css制作斜角文字
+title: CSS制作斜角文字
 date: 2015-09-23 18:18
 author: misshu
 comments: true
@@ -22,7 +22,7 @@ HTML代码：
 </div>
 {% endhighlight %}
 
-css代码：
+CSS代码：
 
 {% highlight css %}
  body{
