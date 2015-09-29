@@ -78,9 +78,9 @@ CSS代码：
   color:#fff;
   background-color:#f60;
   transform:rotate(45deg);
-  -ms-transform:rotate(45deg);<!-- ie9-->
-  -webkit-transform:rotate(45deg);<!--safari and chrome-->
-  -moz-transform:rotate(45deg);<!--firefox-->
-  -o-transform:rotate(45deg);<!--opera-->
+  -ms-transform:rotate(45deg); /* ie9 */
+  -webkit-transform:rotate(45deg); /* safari and chrome */
+  -moz-transform:rotate(45deg); /* firefox */
+  -o-transform:rotate(45deg); /* opera */
 }
 {% endhighlight %}
