@@ -37,6 +37,10 @@ categories: front-end
   background-color:#f60;
   color:#fff;
   transform:rotate(45deg);
+  -ms-transform:rotate(45deg);<!-- ie9-->
+  -webkit-transform:rotate(45deg);<!--safari and chrome-->
+  -moz-transform:rotate(45deg);<!--firefox-->
+  -o-transform:rotate(45deg);<!--opera-->
   }
 </style>
 	
@@ -55,24 +59,28 @@ CSS代码：
 
 {% highlight css %}
 .pic{
-	position:relative;;
-	width:310px;
-	height:439px;
-	overflow:hidden;
+  position:relative;;
+  width:310px;
+  height:439px;
+  overflow:hidden;
 }
 .tf{
-	position:absolute;
-	top:10px;
-	left:75%;
-	width:100px;
-	height:30px;
-	text-align:center;
-	display:block;
-	overflow:hidden;
-	line-height:30px;
-	font-weight:300;
-	color:#fff;
-	background-color:#f60;
-	transform:rotate(45deg);
+  position:absolute;
+  top:10px;
+  left:75%;
+  width:100px;
+  height:30px;
+  text-align:center;
+  display:block;
+  overflow:hidden;
+  line-height:30px;
+  font-weight:300;
+  color:#fff;
+  background-color:#f60;
+  transform:rotate(45deg);
+  -ms-transform:rotate(45deg);<!-- ie9-->
+  -webkit-transform:rotate(45deg);<!--safari and chrome-->
+  -moz-transform:rotate(45deg);<!--firefox-->
+  -o-transform:rotate(45deg);<!--opera-->
 }
 {% endhighlight %}
