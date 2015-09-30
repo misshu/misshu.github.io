@@ -41,8 +41,8 @@ li{
   list-style:none;
 }
 .nav{
-  width:700px;
-  height:260px;
+  width:720px;
+  height:50px;
   margin:0 auto;
 }
 .post li a{
