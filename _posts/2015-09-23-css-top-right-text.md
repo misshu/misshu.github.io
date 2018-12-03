@@ -4,7 +4,8 @@ title: CSS制作斜角文字
 date: 2015-09-23 18:18
 author: misshu
 comments: true
-categories: front-end
+categories: [技术]
+tags: [前端、CSS]
 ---
 
 在很多网站里面都可以看到“独播”、“限时抢购”、“自制”等文字制作位于图片或者div元素的右上角。本文将揭开其面纱。

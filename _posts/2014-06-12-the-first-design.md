@@ -4,7 +4,8 @@ title: 初涉设计
 date: 2014-06-12 22:07
 author: misshu
 comments: true
-categories: [未分类]
+categories: [技术]
+tags: [技术]
 ---
 不入设计不知设计的水多深。
 第一次亲密接触设计：手无足措！不懂设计为何物。好在有前辈指教，前辈说不会创作没有关系会谷歌会配色就行。

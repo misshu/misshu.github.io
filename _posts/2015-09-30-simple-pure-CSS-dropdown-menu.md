@@ -4,7 +4,8 @@ title: 简单的纯CSS下拉菜单
 date: 2015-09-30 21:39
 author: misshu
 comments: true
-categories: front-end
+categories: [技术]
+tags: [前端、CSS]
 ---
 实际运行效果：
 
