@@ -18,7 +18,7 @@ tags: [生活]
 大年三十贴春联挂灯笼，吃可爱长大的小萌娃
 <img src="https://api.fooleap.org/misshu/happy.jpeg">
 大年初二北海银滩出现了海市蜃楼，银滩上挤满了围观的人
-<img src="https://api.fooleap.org/misshu/danger.jpeg">
+<img src="https://api.fooleap.org/misshu/dangre.jpeg">
 回外婆家，晚饭后直奔海滩。沙子还是那么细，沙滩上被推上来好多海草。夕阳落下，准备涨潮了。三三两两游玩的人提着不多的货物尽兴而归。
 <img src="https://api.fooleap.org/misshu/haitan.jpeg">
 大年初四走亲戚--盘它
